@@ -28,5 +28,6 @@ public class Aritmetica {
         //Resultados
         System.out.println("La suma es: " + suma);
         System.out.println("El promedio es: " + promedio);
+        System.out.println("Proceso Finalizado");
     }
 }
