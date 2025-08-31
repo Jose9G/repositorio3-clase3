@@ -26,7 +26,6 @@ public class Aritmetica {
         promedio = suma / 2;
         
         //Resultados
-        System.out.println("Resultados");
         System.out.println("La suma es: " + suma);
         System.out.println("El promedio es: " + promedio);
         System.out.println("Proceso Finalizado");
